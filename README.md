@@ -23,7 +23,7 @@
 |  10   |   Understaning the story with audio   |  Audio Material #1 |        In class       |     
 |  10   |    Checking Reading Comprehension     |        App #3      |       Individual      | 
 |------ |---------------------------------------|--------------------| ----------------------|   
-|  10   |     Sharing opinions & Feedback       |        App #4      | Individual - In class |     
+|  10   |    Thinking critically & Evaluating   |        App #4      | Individual - In class |     
 |------ |---------------------------------------|--------------------| ----------------------| 
 
 ## Lesson Objectives 
