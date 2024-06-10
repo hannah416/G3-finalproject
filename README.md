@@ -35,7 +35,7 @@
   
 ## Lesson Structure & Activities
 ### [Pre-reading activities (15 mins.)]
-**👊 Icebreaking with the topic (3 mins.)**
+**👊 Icebreaking with the Topic (3 mins.)**
 
 **Activity:** Ss share their experiences and thoughts related to the topic introduced by T.
 **App Functionality:**
@@ -47,7 +47,7 @@
 **App Functionality:** The app provides digital flashcards, interactive matching games, and quizzes that students can complete on their tablets.
 **Objective:** Introduce and practice key vocabulary related to the story, enhancing students’ vocabulary knowledge.
 
-**🎰 Guessing the story wiwth images (5 mins.)**
+**🎰 Guessing the Story with Images (5 mins.)**
 
 **Activity:** Ss guess the story with the images related to the story. 
 **App Functionality:** This application displays three WordCloud images meaning Intro, Body, and Conclusion and 6 random images of the story. Ss use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud imaages.
@@ -56,13 +56,13 @@
 
 
 ### [During-reading activities (25 mins.)]
-**💻 Introduced the Story with a video (5 mins.)** 
+**💻 Introduced the Story with a Video (5 mins.)** 
 
 **Activity:** Ss watch a teacher-created video of the full story, taking notes and paying attention to main characters, settings, and events.
 **App Functionality:** The video is played on [the interactive whiteboard], and students can access the video on their tablets for closer viewing.
 **Objective:** Provide an overview of the story and introduce the story through visual and auditory learning.
 
-**🔈Understanding the Story with audio (10 mins.)**
+**🔈Understanding the Story with Audio (10 mins.)**
 
 **Activity:** Ss listen to the story in segments and answering the questions provided by T to enhance comprehension on the plot and main elements.
 **App Functionality:** The app plays audio segments of the story [in class by T.] providing Ss with QR code to access on their tablets [when needed].
