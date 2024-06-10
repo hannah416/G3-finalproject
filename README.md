@@ -1,30 +1,96 @@
 # 📙 Group 3 Final project 
-+ Last updated (0514 by MK316)
++ Last updated (0610 by bori0824)
 + Presentation is scheduled on June 18 (Tuesday)
 + Overview of the project here :-)
 
 ## Useful Links
-| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1] | 🔸 [APP#2] |
+| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://bori0824-ImageUnscrambling.hf.space) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4] |🔸 [Visual Material#1] |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://bori0824-multitts.hf.space) |
 
 ## Lesson Plan
+
+|             Grade            |     Proficiency Level (ACTFL)     |              Time Frame             |
+|------------------------------|-----------------------------------|-------------------------------------|
+|   Middle school 2<sup>nd </sup>grade    |         Intermediate-Low          |   50 mins.   (15 - 25 - 10 mins.)   |
+
+
+|  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
+|-------|---------------------------------------|--------------------| ----------------------|
+|   3   |       Icebreaking with the topic      | Visual Material #1 |        In class       |
+|   7   |         Building Vocabulary           |        App #1      |        In pairs       |     
+|   5   |    Guessing the story with images     |        App #2      |        In pairs       |  
+|------ |---------------------------------------|--------------------| ----------------------|   
+|   5   |   Introduced the story with a video   | Visual Material #2 | Individual - In pairs |
+|  10   |   Understaning the story with audio   |  Audio Material #1 |        In class       |     
+|  10   |    Checking Reading Comprehension     |        App #3      |       Individual      | 
+|------ |---------------------------------------|--------------------| ----------------------|   
+|  10   |     Sharing opinions & Feedback       |        App #4      | Individual - In class |     
+|------ |---------------------------------------|--------------------| ----------------------| 
+
+## Lesson Objectives 
++ To engage with Interactive Digital Content
++ To support to Collaborate and Communicate effectively
++ To strengthen Comprehension Skills
++ To develop Digital Proficiency
++ (To experience a sustainable, paper-free learning environment)
+  
+## Lesson Structure & Activities
+### [Pre-reading activities (15 mins.)]
+**👊 Icebreaking with the topic (3 mins.)**
+
+**Activity:** Ss share their experiences and thoughts related to the topic introduced by T.
+**App Functionality:**
+**Objective:**
+
+**🔤 Building Vocabulary (7 mins.)**
+
+**Activity:** Students interact with an app to learn and practice key vocabulary related to the story through flashcards, matching games, or quizzes.
+**App Functionality:** The app provides digital flashcards, interactive matching games, and quizzes that students can complete on their tablets.
+**Objective:** Introduce and practice key vocabulary related to the story, enhancing students’ vocabulary knowledge.
+
+**🎰 Guessing the story wiwth images (5 mins.)**
+
+**Activity:** Ss guess the story with the images related to the story. 
+**App Functionality:** This application displays three WordCloud images meaning Intro, Body, and Conclusion and 6 random images of the story. Ss use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud imaages.
+**Objective:** Encourage students to make predictions about the story and develop inferencing skills.
+
+
+
+### [During-reading activities (25 mins.)]
+**💻 Introduced the Story with a video (5 mins.)** 
+
+**Activity:** Ss watch a teacher-created video of the full story, taking notes and paying attention to main characters, settings, and events.
+**App Functionality:** The video is played on [the interactive whiteboard], and students can access the video on their tablets for closer viewing.
+**Objective:** Provide an overview of the story and introduce the story through visual and auditory learning.
+
+**🔈Understanding the Story with audio (10 mins.)**
+
+**Activity:** Ss listen to the story in segments and answering the questions provided by T to enhance comprehension on the plot and main elements.
+**App Functionality:** The app plays audio segments of the story [in class by T.] providing Ss with QR code to access on their tablets [when needed].
+**Objective:** Focus on listening skills and detailed comprehension, identifying key story elements.
+
+**📝 Checking Reading Comprehension (10 mins.)** 
+
+**Activity:** Students answer multiple-choice, true/false, short answer, and vocabulary questions related to the story.
+**App Functionality:** The app presents comprehension questions that students can answer on their tablets, providing immediate feedback.
+**Objective:** Enhance Reading Comprehension skills and promote Critical Thinking and Vocabulary development.
+
+
+
+### [Post-reading activity (10 mins.)]
+**👄 [Sharing Opinions & Feedback] (10 mins.)**
+
+**Activity:** Ss receive common critical thinking questions instead of a reading passage and record their responses, listening to their pronunciation and evaluating it.
+**App Functionality:** 
+**Objective:** Develop Ss' ability to express personal opinions in English by responding to critical thinking questions.
+
 
 ## Lesson Materials
 
 ### Story Title: The Peddler's Magic Seeds 
-+ [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt)
-+ [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story03.png)
++ [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story03.png) 
++ [full-story text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt)
++ [full-story video link]( https://ai.invideo.io/watch/O5Q4fOeVnoH )
 
 **<Synopsis>**
 In a quaint village surrounded by rolling hills, young Tom struggled with the tough soil in his family's garden. One day, a peddler arrived selling various items, including magical seeds. Tom purchased a packet and planted them in his garden. To everyone's surprise, the seeds grew into vibrant and lush plants, transforming the barren garden into a wonder. The remarkable growth of these plants brought the community together, with neighbors sharing seeds and gardening tips. Inspired by the peddler, Tom later became a peddler himself, spreading joy and community spirit by selling magic seeds to other villages. Tom's story became a symbol of how small acts of kindness and curiosity can lead to widespread beauty and unity.
 
-### Full Story 🌱 (MK316: This full story can go in a separate file linked here; Maybe the scenario, an overview of the story can display here instead?)
-Once in a quaint village nestled among rolling hills and lush fields, there lived a young boy named Tom. Tom loved exploring the outdoors and helping his parents in their small garden. However, the soil in their garden was tough and dry, making it difficult to grow more than a few hardy vegetables each year.
-One sunny morning, while Tom was playing near the village square, a cheerful peddler rolled into town with a cart full of wondrous items. He had pots and pans, cloths and toys, but what caught Tom's eye were the small packets of seeds tied with colorful ribbons.
-Curious, Tom approached the peddler and asked about the seeds. The peddler, a kind man with a wide smile, leaned down and whispered, "These, my young friend, are magic seeds. Plant them, care for them, and you'll see how special they are!"
-Excited, Tom used his saved coins to buy a packet. He rushed home and showed his parents, who helped him plant the seeds in a small corner of their garden. Though skeptical, they supported Tom's enthusiasm.
-Days turned into weeks, and slowly, sprouts emerged. These weren't ordinary sprouts; they grew quickly and vibrantly, even in the tough soil of their garden. Tom took care of them diligently, watering and weeding with great care.
-By the end of the season, the garden was transformed. The plants from the magic seeds grew into tall, lush vegetables and beautiful flowers that were unlike anything the villagers had ever seen. The colors were brighter, and the smells were sweeter than any other plants in the village.
-News of Tom's magical garden spread, and soon people from nearby towns came to see it. They marveled at how the peddler's seeds could prosper in such stubborn soil. Tom and his family generously shared the seeds with their neighbors, teaching them how to care for them.
-The garden brought the community together, with everyone sharing tips, seeds, and the fruits of their labor. Tom’s family's garden became a symbol of hope and joy in the village.
-Years later, Tom, inspired by the peddler, decided to become a peddler himself. He traveled from village to village, selling goods and, most importantly, magic seeds. With each packet of seeds he sold, Tom shared a piece of the joy and wonder he had experienced as a boy.
-Tom's simple act of buying seeds from a peddler not only changed his life but also brought beauty and unity to many others. The story of the peddler and the magic seeds became a beloved tale in every place Tom visited, reminding people everywhere of the magic that can grow from small beginnings and the importance of sharing and community.
