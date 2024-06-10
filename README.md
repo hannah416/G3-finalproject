@@ -15,15 +15,15 @@
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
 |-------|---------------------------------------|--------------------| ----------------------|
-|   3   |       Icebreaking with the topic      | Visual Material #1 |        In class       |
+|   3   |       Icebreaking with the Topic      | Visual Material #1 |        In class       |
 |   7   |         Building Vocabulary           |        App #1      |        In pairs       |     
-|   5   |    Guessing the story with images     |        App #2      |        In pairs       |  
+|   5   |    Guessing the Story with Images     |        App #2      |        In pairs       |  
 |------ |---------------------------------------|--------------------| ----------------------|   
-|   5   |   Introduced the story with a video   | Visual Material #2 | Individual - In pairs |
-|  10   |   Understaning the story with audio   |  Audio Material #1 |        In class       |     
+|   5   |   Introduced the Story with a Video   | Visual Material #2 | Individual - In pairs |
+|  10   |   Understaning the Story with Audio   |  Audio Material #1 |        In class       |     
 |  10   |    Checking Reading Comprehension     |        App #3      |       Individual      | 
 |------ |---------------------------------------|--------------------| ----------------------|   
-|  10   |    Thinking critically & Evaluating   |        App #4      | Individual - In class |     
+|  10   |    Thinking Critically & Evaluating   |        App #4      | Individual - In class |     
 |------ |---------------------------------------|--------------------| ----------------------| 
 
 ## Lesson Objectives 
@@ -77,7 +77,7 @@
 
 
 ### [Post-reading activity (10 mins.)]
-**👄 [Thinking critically & Evaluating] (10 mins.)**
+**👄 [Thinking Critically & Evaluating] (10 mins.)**
 
 **Activity:** Ss receive common critical thinking questions instead of a reading passage and record their responses, listening to their pronunciation and evaluating it.
 **App Functionality:** 
