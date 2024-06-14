@@ -24,7 +24,7 @@
 |  10   |    Checking Reading Comprehension     |        App #3      |       Individual      | 
 |------ |---------------------------------------|--------------------| ----------------------|   
 |  10   |    Thinking Critically & Evaluating   |        App #4      | Individual - In class |     
-|------ |---------------------------------------|--------------------| ----------------------| 
+
 
 ## Lesson Objectives 
 + To engage with Interactive Digital Content
