@@ -41,9 +41,9 @@
 ### [Pre-reading activities (15 mins.)]
 **👊 Icebreaking with the Topic (3 mins.)**
 
-**Activity:** Students share their experiences and thoughts related to the topic introduced by T. after looking at the topic-related image.
-**App Functionality:** The app displays a topic-related image on the interactive whiteboard for students to interact in class.
-**Objective:** Activate students' prior knowledge and create interest in the topic.
+**Activity:** Students share their experiences and thoughts related to the topic introduced by T. After looking at the topic-related images. Each student will look at the images and briefly describe what they see, what it reminds them of, or how they feel about the scenario depicted.
+**App Functionality:** The app displays the four images from Visual Material #1 and allows students to annotate or add comments to each image. Students can tap on an image and say a short comment about their thoughts and experiences related to that image.
+**Objective:** Encourage students to connect personally with the topic through visual material and facilitate a quick, engaging discussion that sets the stage for the story. This activity aims to activate prior knowledge and stimulate interest in the story by making personal and emotional connections with the visual content.
 
 **🔤 Building Vocabulary (7 mins.)**
 
