@@ -88,10 +88,19 @@
 **Objective:** Develop students' ability to express personal opinions in English and improve pronunciation and critical thinking skills.
 
 
-## Homework Assignment
-**Activity:** 
-**App Functionality:** 
-**Objective:** 
+## Homework Assignment (Critical Thinking & Peer Feedback)
+
+### Thinking Critically & Providing Peer Feedback
+**Activity:** Students listen to three recordings uploaded by classmates on the Padlet board titled "Upload your recording # 1" and choose one response to give feedback. They then record and upload their verbal feedback on the board titled "[HW] Upload your recording #2 (Peer Feedback)". 
+**App Functionality:** App #4 is used to record the feedback same as the process of the Post-reaing activity. Students upload their feedback to the Padlet board.
+**Objective:** Enhance evaluative and communication skills by providing constructive feedback to peers.
+
+
+### Providing Peer Feedback
+**Activity:** Students listen to recordings uploaded by classmates and choose three responses to evaluate. They then record and upload their verbal feedback.
+**App Functionality:** App #4 is used to record the responses. Students then upload their recordings to the Padlet board titled "Upload your recording #1". 
+**Objective:** Develop critical thinking skills and articulate personal experiences while reflecting on the response.
+
 
 
 ## Lesson Materials
