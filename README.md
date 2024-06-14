@@ -42,8 +42,8 @@
 **👊 Icebreaking with the Topic (3 mins.)**
 
 **Activity:** Ss share their experiences and thoughts related to the topic introduced by T. after looking at the topic-related image.
-**App Functionality:**
-**Objective:**
+**App Functionality:** The app displays a topic-related image on the interactive whiteboard for Ss to interact in class.
+**Objective:** Activate students' prior knowledge and create interest in the topic.
 
 **🔤 Building Vocabulary (7 mins.)**
 
