@@ -12,6 +12,10 @@
 |------------------------------|-----------------------------------|-------------------------------------|
 |   Middle school 2<sup>nd </sup>grade    |         Intermediate-Low          |   50 mins.   (15 - 25 - 10 mins.)   |
 
+|            Target vocabulary   |
+|-----------------------------|
+| quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
+
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
 |-------|---------------------------------------|--------------------| ----------------------|
