@@ -1,5 +1,5 @@
 # 📙 Group 3 Final project 
-+ Last updated (0610 by bori0824)
++ Last updated (0614 by bori0824)
 + Presentation is scheduled on June 18 (Tuesday)
 + Overview of the project here :-)
 
@@ -12,9 +12,9 @@
 |------------------------------|-----------------------------------|-------------------------------------|
 |   Middle school 2<sup>nd </sup>grade    |         Intermediate-Low          |   50 mins.   (15 - 25 - 10 mins.)   |
 
-|            Target vocabulary   |
-|-----------------------------|
-| quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
+|            Story   |  Target vocabulary   |
+|-----------------------------|-----------------------------|
+| The Peddler's Magic Seeds|quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
 
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
