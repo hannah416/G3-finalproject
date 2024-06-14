@@ -41,7 +41,7 @@
 ### [Pre-reading activities (15 mins.)]
 **👊 Icebreaking with the Topic (3 mins.)**
 
-**Activity:** Ss share their experiences and thoughts related to the topic introduced by T.
+**Activity:** Ss share their experiences and thoughts related to the topic introduced by T. after looking at the topic-related image.
 **App Functionality:**
 **Objective:**
 
