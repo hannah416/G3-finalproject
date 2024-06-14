@@ -88,6 +88,12 @@
 **Objective:** Develop students' ability to express personal opinions in English and improve pronunciation and critical thinking skills.
 
 
+## Homework Assignment
+**Activity:** 
+**App Functionality:** 
+**Objective:** 
+
+
 ## Lesson Materials
 
 ### Story Title: The Peddler's Magic Seeds 
