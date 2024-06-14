@@ -96,13 +96,6 @@
 **Objective:** Enhance evaluative and communication skills by providing constructive feedback to peers.
 
 
-### Providing Peer Feedback
-**Activity:** Students listen to recordings uploaded by classmates and choose three responses to evaluate. They then record and upload their verbal feedback.
-**App Functionality:** App #4 is used to record the responses. Students then upload their recordings to the Padlet board titled "Upload your recording #1". 
-**Objective:** Develop critical thinking skills and articulate personal experiences while reflecting on the response.
-
-
-
 ## Lesson Materials
 
 ### Story Title: The Peddler's Magic Seeds 
