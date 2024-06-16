@@ -41,9 +41,9 @@
 ### [Pre-reading activities (15 mins.)]
 **👊 Icebreaking with the Topic (3 mins.)**
 
-**Activity:** Students share their experiences and thoughts related to the topic introduced by T. After looking at the topic-related images. Each student will look at the images and briefly describe what they see, what it reminds them of, or how they feel about the scenario depicted.
+**Activity:** Students share their experiences and thoughts related to the topic introduced by T. After looking at the topic-related images.
 **App Functionality:** The app displays the four images from Visual Material #1 and allows students to annotate or add comments to each image. Students can tap on an image and say a short comment about their thoughts and experiences related to that image.
-**Objective:** Encourage students to connect personally with the topic through visual material and facilitate a quick, engaging discussion that sets the stage for the story. This activity aims to activate prior knowledge and stimulate interest in the story by making personal and emotional connections with the visual content.
+**Objective:** Encourage students to connect personally with the topic through visual material and facilitate a quick, engaging discussion that sets the stage for the story.
 
 **🔤 Building Vocabulary (7 mins.)**
 
@@ -83,10 +83,9 @@
 ### [Post-reading activity (10 mins.)]
 **👄 [Thinking Critically & Evaluating] (10 mins.)**
 
-**Activity:** Students receive common critical thinking questions instead of a reading passage and record their responses, listening to their pronunciation and evaluating it.
+**Activity:** Students write responses to critical questions, record their answers, and practice speaking skills through self-assessment. 
 **App Functionality:** The app has students write in English to respond to the question, record their responses and play them back for self-evaluation.
-**Objective:** Develop students' ability to express personal opinions in English and improve pronunciation and critical thinking skills.
-
+**Objective:** Enhance English proficiency by responding to critical questions, recording responses, and self-assessing speaking abilities.
 
 ## Homework Assignment (Critical Thinking & Peer Feedback)
 
@@ -106,4 +105,3 @@
 
 **<Synopsis>**
 In a quaint village surrounded by rolling hills, young Tom struggled with the tough soil in his family's garden. One day, a peddler arrived selling various items, including magical seeds. Tom purchased a packet and planted them in his garden. To everyone's surprise, the seeds grew into vibrant and lush plants, transforming the barren garden into a wonder. The remarkable growth of these plants brought the community together, with neighbors sharing seeds and gardening tips. Inspired by the peddler, Tom later became a peddler himself, spreading joy and community spirit by selling magic seeds to other villages. Tom's story became a symbol of how small acts of kindness and curiosity can lead to widespread beauty and unity.
-
