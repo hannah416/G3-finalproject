@@ -59,6 +59,8 @@
 
 
 
+
+
 ### [During-reading activities (25 mins.)]
 **💻 Introduced the Story with a Video (5 mins.)** 
 
