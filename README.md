@@ -12,10 +12,6 @@
 |------------------------------|-----------------------------------|-------------------------------------|
 |   Middle school 2<sup>nd </sup>grade    |         Intermediate-Low          |   50 mins.   (15 - 25 - 10 mins.)   |
 
-|            Story theme      |  Target vocabulary   |
-|-----------------------------|-----------------------------|
-| Belief, Sharing, and Community Growth | quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
-
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
 |-------|---------------------------------------|--------------------| ----------------------|
@@ -28,6 +24,11 @@
 |  10   |    Checking Reading Comprehension     |        App #3      |       Individual      | 
 |------ |---------------------------------------|--------------------| ----------------------|   
 |  10   |    Thinking Critically & Evaluating   |        App #4      | Individual - In class |     
+
+
+|            Story theme      |  Target vocabulary   |
+|-----------------------------|-----------------------------|
+| Belief, Sharing, and Community Growth | quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
 
 
 ## Lesson Objectives 
