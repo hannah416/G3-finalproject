@@ -14,9 +14,9 @@
 | Believe, Share, and Grow Together | quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
 
 
-|             Target Learners            |     Proficiency Level (ACTFL)     |              Time Frame             |
+|             Target Learners            |     Proficiency Level   |              Time Frame             |
 |------------------------------|-----------------------------------|-------------------------------------|
-|   2<sup>nd </sup>grade Middle school students     |         Intermediate-Low          |   50 mins.   (15-25-10 mins.)   |
+|   2<sup>nd </sup>grade Middle school students     |         Intermediate-Low          |   50 mins.   (15 - 25 - 10 mins.)   |
 
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
