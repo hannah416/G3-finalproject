@@ -26,7 +26,7 @@
 |   5   |    Guessing the Story with Images     |        App #2      |        In pairs       |  
 |------ |---------------------------------------|--------------------| ----------------------|   
 |   5   |   Introduced the Story with a Video   | Visual Material #2 | Individual - In pairs |
-|  10   |   Understaning the Story with Audio   |  Audio Material #1 |        In class       |     
+|  10   |   Understanding the Story with Audio   |  Audio Material #1 |        In class       |     
 |  10   |    Checking Reading Comprehension     |        App #3      |       Individual      | 
 |------ |---------------------------------------|--------------------| ----------------------|   
 |  10   |    Thinking Critically & Evaluating   |        App #4      | Individual - In class |     
@@ -50,7 +50,7 @@
 **🔤 Building Vocabulary (7 mins.)**
 
 **Activity:** Ss interact with an app to learn and practice key vocabulary related to the story through flashcards.
-**App Functionality:** The [App #1] app displays digital flashcards on the interactive whiteboard that Ss can also have a closer look on their tablets.
+**App Functionality:** The [App #1] app displays digital flashcards on the interactive whiteboard so that Ss can also have a closer look on their tablets.
 **Objective:** Introduce and practice key vocabulary related to the story, enhancing Ss' vocabulary knowledge.
 
 **🎰 Guessing the Story with Images (5 mins.)**
