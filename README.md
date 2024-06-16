@@ -69,7 +69,7 @@
 
 **🔈Understanding the Story with Audio (10 mins.)**
 
-**Activity:** Ss listen to the story in segments and answering the questions provided by T to enhance comprehension on the plot and main elements.
+**Activity:** Ss listen to the story in segments and answer the questions provided by T to enhance comprehension on the plot and main elements.
 **App Functionality:** The app plays audio of [Audio Material #1] by T, playing segments of the story in class, and QR code is provided Ss to access on their tablets.
 **Objective:** Focus on listening skills and detailed comprehension, identifying key story elements.
 
