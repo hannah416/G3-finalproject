@@ -6,15 +6,15 @@
 ## Useful Links
 | 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://huggingface.co/spaces/bori0824/ImageUnscrambling) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4](https://jinggujiwoo7-speechfeedback.hf.space) |🔸 [Visual Material#1](https://huggingface.co/spaces/bori0824/GettingToKnowtheTopic) |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://huggingface.co/spaces/bori0824/StoryListening) |🔸 [Class Padlet](https://padlet.com/bori0824_1/g3-the-peddler-s-magic-seeds-ki70fzt0l3efj311) | 
 
-## Lesson Plan
+## Lesson Plan [Story 3 - The Peddeler's Magic Seeds]
 
 |             Grade            |     Proficiency Level (ACTFL)     |              Time Frame             |
 |------------------------------|-----------------------------------|-------------------------------------|
 |   Middle school 2<sup>nd </sup>grade    |         Intermediate-Low          |   50 mins.   (15 - 25 - 10 mins.)   |
 
-|            Story   |  Target vocabulary   |
+|            Story theme      |  Target vocabulary   |
 |-----------------------------|-----------------------------|
-| The Peddler's Magic Seeds|quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
+| Belief, Sharing, and Community Growth | quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
 
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
