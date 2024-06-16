@@ -44,7 +44,7 @@
 **👊 Icebreaking with the Topic (3 mins.)**
 
 **Activity:** Ss share their experiences and thoughts related to the topic introduced by T After looking at the topic-related images.
-**App Functionality:** The app displays the four images from [Visual Material #1] and allows Ss to annotate or add comments to each image. Ss can tap on an image and say a short comment about their thoughts and experiences related to that image.
+**App Functionality:** The app displays the four images from [Visual Material #1] and allows Ss to annotate or add comments to each image. Ss can tap on an image and make a short comment about their thoughts and experiences related to that image.
 **Objective:** Encourage Ss to connect personally with the topic through visual material and facilitate a quick, engaging discussion that sets the stage for the story.
 
 **🔤 Building Vocabulary (7 mins.)**
@@ -56,27 +56,27 @@
 **🎰 Guessing the Story with Images (5 mins.)**
 
 **Activity:** Ss guess the story with the images related to the story. 
-**App Functionality:** The [App #2] app displays three WordCloud images meaning Intro, Body, and Conclusion and 6 random images of the story. Ss use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud images.
-**Objective:** Encourage Ss to make predictions about the story and develop inferencing skills.
+**App Functionality:** The [App #2] app displays three WordCloud images of the Intro, Body, and Conclusion and 6 random story images. Ss use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud images.
+**Objective:** Encourage Ss to predict the story and develop inferencing skills.
 
 
 ### [During-reading activities (25 mins.)]
 **💻 Introduced the Story with a Video (5 mins.)** 
 
-**Activity:** Ss watch a teacher-created video of the full story, taking notes and paying attention to main characters, settings, and events.
+**Activity:** Ss watch a teacher-created video of the full story, taking notes and paying attention to the main characters, settings, and events.
 **App Functionality:** The video of [Visual Material #2] is played on the interactive whiteboard, and Ss can access the video on their tablets for closer viewing.
-**Objective:** Provide an overview of the story and introduce the story through visual and auditory learning.
+**Objective:** Provide an overview and introduce the story through visual and auditory learning.
 
 **🔈Understanding the Story with Audio (10 mins.)**
 
 **Activity:** Ss listen to the story in segments and answer the questions provided by T to enhance comprehension of the plot and main elements.
-**App Functionality:** The app plays audio of [Audio Material #1] by T, playing segments of the story in class, and QR code is provided Ss to access on their tablets.
+**App Functionality:** The app plays audio of [Audio Material #1] by T, playing segments of the story in class, and a QR code is provided to Ss to access on their tablets.
 **Objective:** Focus on listening skills and detailed comprehension, identifying key story elements.
 
 **📝 Checking Reading Comprehension (10 mins.)** 
 
 **Activity:** Ss answer multiple-choice, true/false, short answer, and vocabulary questions related to the story.
-**App Functionality:** The app presents comprehension questions that QR code can answer on their tablets, providing immediate feedback.
+**App Functionality:** The app presents comprehension questions that Ss can answer on their tablets, providing immediate feedback.
 **Objective:** Enhance reading comprehension skills and promote critical thinking and vocabulary development.
 
 
@@ -85,7 +85,7 @@
 **👄 [Thinking Critically & Evaluating] (10 mins.)**
 
 **Activity:** Ss write responses to critical questions, record their answers, and practice speaking skills through self-assessment. 
-**App Functionality:** The app has Ss write in English to respond to the question, record their responses and play them back for self-evaluation.
+**App Functionality:** The app has Ss write in English to respond to the question, record their responses, and play them back for self-evaluation.
 **Objective:** Enhance English proficiency by responding to critical questions, recording responses, and self-assessing speaking abilities.
 
 ## Homework Assignment (Critical Thinking & Peer Feedback)
@@ -93,7 +93,7 @@
 **🔈&👄[Thinking Critically & Providing Peer Feedback]**
 
 **Activity:** Ss listen to three recordings uploaded by classmates on the Padlet board titled "Upload your recording # 1" and choose one response to give feedback. They then record and upload their verbal feedback on the board titled "[HW] Upload your recording #2 (Peer Feedback)". 
-**App Functionality:** The [App #4] app is used to record the feedback, same as the process of the Post-reading activity. Ss upload their feedback to the Padlet board.
+**App Functionality:** The [App #4] app is used to record the feedback, the same as the process of the Post-reading activity. Ss upload their feedback to the Padlet board.
 **Objective:** Enhance evaluative and communication skills by providing constructive feedback to peers.
 
 
