@@ -6,7 +6,7 @@
 ## Useful Links
 | 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://huggingface.co/spaces/bori0824/ImageUnscrambling) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4](https://jinggujiwoo7-speechfeedback.hf.space) |🔸 [Visual Material#1](https://huggingface.co/spaces/bori0824/GettingToKnowtheTopic) |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://huggingface.co/spaces/bori0824/StoryListening) |🔸 [Class Padlet](https://padlet.com/bori0824_1/g3-the-peddler-s-magic-seeds-ki70fzt0l3efj311) | 
 
-## Lesson Plan [Story 3 - The Peddeler's Magic Seeds]
+## Lesson Plan [Story 3 - The Peddler's Magic Seeds]
 
 
 |            Story theme      |  Target vocabulary   |
@@ -93,7 +93,7 @@
 **🔈&👄[Thinking Critically & Providing Peer Feedback]**
 
 **Activity:** Ss listen to three recordings uploaded by classmates on the Padlet board titled "Upload your recording # 1" and choose one response to give feedback. They then record and upload their verbal feedback on the board titled "[HW] Upload your recording #2 (Peer Feedback)". 
-**App Functionality:** The [App #4] app is used to record the feedback same as the process of the Post-reaing activity. Ss upload their feedback to the Padlet board.
+**App Functionality:** The [App #4] app is used to record the feedback, same as the process of the Post-reading activity. Ss upload their feedback to the Padlet board.
 **Objective:** Enhance evaluative and communication skills by providing constructive feedback to peers.
 
 
