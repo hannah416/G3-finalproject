@@ -50,7 +50,7 @@
 **🔤 Building Vocabulary (7 mins.)**
 
 **Activity:** Ss interact with an app to learn and practice key vocabulary related to the story through flashcards.
-**App Functionality:** The [App #1] app provides digital flashcards that Ss can also have a closer look on their tablets.
+**App Functionality:** The [App #1] app displays digital flashcards on the interactive whiteboard that Ss can also have a closer look on their tablets.
 **Objective:** Introduce and practice key vocabulary related to the story, enhancing Ss' vocabulary knowledge.
 
 **🎰 Guessing the Story with Images (5 mins.)**
