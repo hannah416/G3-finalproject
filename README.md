@@ -22,7 +22,7 @@
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
 |-------|---------------------------------------|--------------------| ----------------------|
 |   3   |       Icebreaking with the Topic      | Visual Material #1 |        In class       |
-|   7   |         Building Vocabulary           |        App #1      |        In pairs       |     
+|   7   |         Building Vocabulary           |        App #1      |  In class - In pairs  |     
 |   5   |    Guessing the Story with Images     |        App #2      |        In pairs       |  
 |------ |---------------------------------------|--------------------| ----------------------|   
 |   5   |   Introduced the Story with a Video   | Visual Material #2 | Individual - In pairs |
