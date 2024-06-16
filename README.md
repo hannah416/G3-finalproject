@@ -28,7 +28,7 @@
 
 |            Story theme      |  Target vocabulary   |
 |-----------------------------|-----------------------------|
-| Belief, Sharing, and Community Growth | quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
+| Believe, Share, and Grow Together | quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
 
 
 ## Lesson Objectives 
