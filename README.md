@@ -101,7 +101,7 @@
 **Objective:** Enhance evaluative and communication skills by providing constructive feedback to peers.
 
 
-### [Rationale]
+## [Rationale]
 **[Pre-reading Activities]**
 Pre-reading activities are crucial for schema activation, which helps students connect new information to their existing knowledge base. Icebreaking fosters a low-anxiety environment (Krashen, 1982), promoting a positive affective filter that facilitates language acquisition. Vocabulary exercises enhance lexical competence (Nation, 2001), aiding in better comprehension and retention of key terms. Predicting the story through images engages students in inferencing, a critical thinking skill that promotes deeper cognitive processing and engagement (Harmer, 2007).
 
