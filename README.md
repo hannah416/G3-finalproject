@@ -41,7 +41,7 @@
 
 |           Lesson Materials       |   Used coding apps.     | 
 |-----------------------------|-----------------------------|
-| Individual tablet for Ss, Projector, T's PC|  | Python, Gradio, Hugging Face  | 
+| Individual tablet for Ss, Projector, T's PC | Python, Gradio, Hugging Face  | 
   
 ## Lesson Structure & Activities
 ### [Pre-reading activities (15 mins.)]
