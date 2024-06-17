@@ -8,15 +8,14 @@
 
 ## Lesson Plan [Story 3 - The Peddler's Magic Seeds]
 
-
-|            Story theme      |  Target vocabulary   |
-|-----------------------------|-----------------------------|
-| Believe, Share, and Grow Together | quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
-
-
 |             Target Learners            |     Proficiency Level   |              Time Frame             |
 |------------------------------|-----------------------------------|-------------------------------------|
 |   2<sup>nd</sup>-graded Middle School Students     |         Intermediate-Low          |   50 mins.   (15 - 25 - 10 mins.)   |
+
+
+|           Target vocabulary      |   Lesson Material  |
+|-----------------------------|-----------------------------|
+| quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisperr | Individual tablet for Ss, Projector, T's PC |
 
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
