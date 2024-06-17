@@ -8,14 +8,15 @@
 
 ## Lesson Plan [Story 3 - The Peddler's Magic Seeds]
 
+
+|           Target vocabulary      |  
+|-----------------------------|
+| quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisperr |
+
+
 |             Target Learners            |     Proficiency Level   |              Time Frame             |
 |------------------------------|-----------------------------------|-------------------------------------|
 |   2<sup>nd</sup>-graded Middle School Students     |         Intermediate-Low          |   50 mins.   (15 - 25 - 10 mins.)   |
-
-
-|           Target vocabulary      |   Lesson Material  |
-|-----------------------------|-----------------------------|
-| quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisperr | Individual tablet for Ss, Projector, T's PC |
 
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
@@ -37,6 +38,10 @@
 + To strengthen Comprehension Skills
 + To develop Digital Proficiency
 + To experience a sustainable, paper-free learning environment
+
+|           Lesson Materials       |   Used coding apps.     | 
+|-----------------------------|-----------------------------|
+| Individual tablet for Ss, Projector, T's PC|  | Python, Gradio, Hugging Face  | 
   
 ## Lesson Structure & Activities
 ### [Pre-reading activities (15 mins.)]
