@@ -39,7 +39,7 @@
 + To develop Digital Proficiency
 + To experience a sustainable, paper-free learning environment
 
-|           Lesson Materials       |   Used coding apps.     | 
+|           Lesson Materials       |   Coding apps. used    | 
 |-----------------------------|-----------------------------|
 | Individual tablet for Ss, Projector, T's PC | Python, Gradio, Hugging Face  | 
   
