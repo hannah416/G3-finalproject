@@ -38,6 +38,7 @@
 |11|디지털 수업임에도 선생님과 학생의 활발한 상호작용|
 |12|Making AI video for listening text was a great idea. It could scaffold to understand the story for the lower level students.|
 |13|Especially, I liked Engagement, Integration, Accessibility of Group 3.|
+|14|By using various tools, learners learn English with no pressure.|
 
 
 ## [3] Essay feedback 2: _What aspects should the presenting group have paid more attention to?_
@@ -56,4 +57,5 @@
 |10|활동의 뚜렷한 목적성 필요|
 |11|For the image ordering activity, the number of images were many, so the workload would be big for the students. I think it would be better to reduce the number of the images or students can do this activity with their partner collaboratively.|
 |12|They would have been quite stressful as they were the last turn to finish the presentations, but everything seemed to work well. Nice work, all of you!:)|
+|13|They were doing good!!|
 
