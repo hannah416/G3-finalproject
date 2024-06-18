@@ -27,7 +27,7 @@
 |------ |---------------------------------------|--------------------| ----------------------|   
 |   5   |   Introduced the Story with a Video   | Visual Material #2 | Individual - In pairs |
 |  10   |   Understanding the Story with Audio   |  Audio Material #1 |        In class       |     
-|  10   |    Checking Reading Comprehension     |        App #3      |       Individual      | 
+|  10   |    Checking Comprehension     |        App #3      |       Individual      | 
 |------ |---------------------------------------|--------------------| ----------------------|   
 |  10   |    Thinking Critically & Evaluating   |        App #4      | Individual - In class |     
 
@@ -77,11 +77,11 @@
 **App Functionality:** The app plays audio of [Audio Material #1] by T, playing segments of the story in class, and a QR code is provided to Ss to access on their tablets.
 **Objective:** Focus on listening skills and detailed comprehension, identifying key story elements.
 
-**📝 Checking Reading Comprehension (10 mins.)** 
+**📝 Checking Comprehension (10 mins.)** 
 
 **Activity:** Ss answer multiple-choice, true/false, short answer, and vocabulary questions related to the story.
 **App Functionality:** The app presents comprehension questions that Ss can answer on their tablets, providing immediate feedback.
-**Objective:** Enhance reading comprehension skills and promote critical thinking and vocabulary development.
+**Objective:** Enhance comprehension skills and promote critical thinking and vocabulary development.
 
 
 
@@ -97,7 +97,7 @@
 **🔈&👄[Thinking Critically & Providing Peer Feedback]**
 
 **Activity:** Ss listen to three recordings uploaded by classmates on the Padlet board titled "Upload your recording # 1" and choose one response to give feedback. They then record and upload their verbal feedback on the board titled "[HW] Upload your recording #2 (Peer Feedback)". 
-**App Functionality:** The [App #4] app is used to record the feedback, the same as the process of the Post-reading activity. Ss upload their feedback to the Padlet board.
+**App Functionality:** The [App #4] app is used to record the feedback, the same as the process of the Post-listening activity. Ss upload their feedback to the Padlet board.
 **Objective:** Enhance evaluative and communication skills by providing constructive feedback to peers.
 
 
@@ -121,13 +121,13 @@
   
 ## Rationale
 **[Pre-listening Activities]**
-Pre-reading activities are crucial for schema activation, which helps students connect new information to their existing knowledge base. Icebreaking fosters a low-anxiety environment (Krashen, 1982), promoting a positive affective filter that facilitates language acquisition. Vocabulary exercises enhance lexical competence (Nation, 2001), aiding in better comprehension and retention of key terms. Predicting the story through images engages students in inferencing, a critical thinking skill that promotes deeper cognitive processing and engagement (Harmer, 2007).
+Pre-listening activities are crucial for schema activation, which helps students connect new information to their existing knowledge base. Icebreaking fosters a low-anxiety environment (Krashen, 1982), promoting a positive affective filter that facilitates language acquisition. Vocabulary exercises enhance lexical competence (Nation, 2001), aiding in better comprehension and retention of key terms. Predicting the story through images engages students in inferencing, a critical thinking skill that promotes deeper cognitive processing and engagement (Harmer, 2007).
 
 **[During-listening Activities]**
-During-reading activities ensure active engagement and foster deeper interaction with the text (Brown, 2004). Utilizing multimedia resources aligns with the dual coding theory (Paivio, 1986), which posits that combining verbal and visual information enhances memory and learning. These activities cater to diverse learning styles, making the content more accessible and engaging. Immediate feedback provided during comprehension questions supports Vygotsky’s (1978) concept of the Zone of Proximal Development (ZPD), allowing students to receive timely scaffolding that reinforces learning and corrects misunderstandings.
+During-listening activities ensure active engagement and foster deeper interaction with the text (Brown, 2004). Utilizing multimedia resources aligns with the dual coding theory (Paivio, 1986), which posits that combining verbal and visual information enhances memory and learning. These activities cater to diverse learning styles, making the content more accessible and engaging. Immediate feedback provided during comprehension questions supports Vygotsky’s (1978) concept of the Zone of Proximal Development (ZPD), allowing students to receive timely scaffolding that reinforces learning and corrects misunderstandings.
 
 **[Post-listening Activities]**
-Post-reading activities and homework assignments reinforce learning by encouraging students to apply their knowledge critically and reflectively. Engaging in critical thinking and self-evaluation promotes metacognitive awareness, which is essential for self-regulated learning (Flavell, 1979). Peer feedback activities are grounded in social constructivism (Vygotsky, 1978), as they foster a collaborative learning environment where students construct knowledge through social interaction. This process helps develop evaluative and communication skills, essential for language proficiency and overall academic success.
+Post-listening activities and homework assignments reinforce learning by encouraging students to apply their knowledge critically and reflectively. Engaging in critical thinking and self-evaluation promotes metacognitive awareness, which is essential for self-regulated learning (Flavell, 1979). Peer feedback activities are grounded in social constructivism (Vygotsky, 1978), as they foster a collaborative learning environment where students construct knowledge through social interaction. This process helps develop evaluative and communication skills, essential for language proficiency and overall academic success.
 
 ## Lesson Materials
 
