@@ -44,7 +44,7 @@
 | Individual tablet for Ss, Projector, T's PC | Python, Gradio, Hugging Face  | 
   
 ## Lesson Structure & Activities
-### [Pre-reading activities (15 mins.)]
+### [Pre-listening activities (15 mins.)]
 **👊 Icebreaking with the Topic (3 mins.)**
 
 **Activity:** Ss share their experiences and thoughts related to the topic introduced by T After looking at the topic-related images.
@@ -64,7 +64,7 @@
 **Objective:** Encourage Ss to predict the story and develop inferencing skills.
 
 
-### [During-reading activities (25 mins.)]
+### [During-listening activities (25 mins.)]
 **💻 Introduced the Story with a Video (5 mins.)** 
 
 **Activity:** Ss watch a teacher-created video of the full story, taking notes and paying attention to the main characters, settings, and events.
@@ -85,7 +85,7 @@
 
 
 
-### [Post-reading activity (10 mins.)]
+### [Post-listening activity (10 mins.)]
 **👄 [Thinking Critically & Evaluating] (10 mins.)**
 
 **Activity:** Ss write responses to critical questions, record their answers, and practice speaking skills through self-assessment. 
@@ -120,13 +120,13 @@
 
   
 ## Rationale
-**[Pre-reading Activities]**
+**[Pre-listening Activities]**
 Pre-reading activities are crucial for schema activation, which helps students connect new information to their existing knowledge base. Icebreaking fosters a low-anxiety environment (Krashen, 1982), promoting a positive affective filter that facilitates language acquisition. Vocabulary exercises enhance lexical competence (Nation, 2001), aiding in better comprehension and retention of key terms. Predicting the story through images engages students in inferencing, a critical thinking skill that promotes deeper cognitive processing and engagement (Harmer, 2007).
 
-**[During-reading Activities]**
+**[During-listening Activities]**
 During-reading activities ensure active engagement and foster deeper interaction with the text (Brown, 2004). Utilizing multimedia resources aligns with the dual coding theory (Paivio, 1986), which posits that combining verbal and visual information enhances memory and learning. These activities cater to diverse learning styles, making the content more accessible and engaging. Immediate feedback provided during comprehension questions supports Vygotsky’s (1978) concept of the Zone of Proximal Development (ZPD), allowing students to receive timely scaffolding that reinforces learning and corrects misunderstandings.
 
-**[Post-reading Activities]**
+**[Post-listening Activities]**
 Post-reading activities and homework assignments reinforce learning by encouraging students to apply their knowledge critically and reflectively. Engaging in critical thinking and self-evaluation promotes metacognitive awareness, which is essential for self-regulated learning (Flavell, 1979). Peer feedback activities are grounded in social constructivism (Vygotsky, 1978), as they foster a collaborative learning environment where students construct knowledge through social interaction. This process helps develop evaluative and communication skills, essential for language proficiency and overall academic success.
 
 ## Lesson Materials
