@@ -1,4 +1,4 @@
-# 💛✨💘 Peer Evaluation Review for Group 3 (0619, by MK316)
+# 💛✨💘 Peer Evaluation & Presentation Review for Group 3 (0619, by MK316)
 
 + Group 3, your presentation was a resounding success, showcasing a well-rounded approach to multimodal learning that effectively engaged and supported the students. Your use of AI videos, QR codes, and a variety of apps tailored to enhance both listening and reading skills is commendable. The high scores in "Support," "Accessibility," and "Adaptability" demonstrate your group’s ability to address diverse learning needs and provide multiple entry points to the content, which is crucial for inclusive education.
 + The integration of AI to create visual and auditory narratives of the story not only maintained engagement among lower-level students but also helped them grasp complex concepts through simplified visuals and clear instructions. The vocabulary builder app was highlighted as particularly effective, helping students focus on key terms essential for understanding the story.
