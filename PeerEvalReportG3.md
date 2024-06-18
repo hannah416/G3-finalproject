@@ -17,7 +17,7 @@
 |Questions|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Total mean (SD)|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Category|Alignment|Integration|Engagement|Stimulation|Support|Accessibility|Integration|Autonomy|Adaptability|Presenation||
-|Mean|5.54|5.53|5.15|5.6|5.54|5.61|5.54|5.7|5.46|5.62|**5.5** (0.47)|
+|Mean|5.54|5.53|5.15|5.61|5.54|5.61|5.54|5.7|5.46|5.62|**5.5** (0.47)|
 
 ![Score summary](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/G3-score.png)
 
