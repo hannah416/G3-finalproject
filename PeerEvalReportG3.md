@@ -19,7 +19,7 @@
 |Category|Alignment|Integration|Engagement|Stimulation|Support|Accessibility|Integration|Autonomy|Adaptability|Presenation||
 |Mean|5.54|5.53|5.15|5.61|5.54|5.61|5.54|5.7|5.46|5.62|**5.5** (0.47)|
 
-![Score summary](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/G3-score.png)
+![Score summary](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/G03-score.png)
 
 ## [2] Essay feedback 1: _What do you think are the most valuable lessons from that group's presentation?_
 
