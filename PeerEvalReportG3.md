@@ -7,7 +7,7 @@
 
 + The pacing and density of activities were noted; while ambitious, it's crucial to balance the complexity and number of tasks to avoid overwhelming the students. Simplifying some activities or allowing more time for others might enhance focus and learning outcomes.
 
-+ Your presentation's strengths in "Engagement" and "Presentation" were clear, reflecting your group's skill in creating an inviting and dynamic learning environment. However, implementing feedback mechanisms that include anonymous options could further lower students' affective filters, encouraging more honest and constructive responses.
++ Your presentation's strengths in "Stimulation", "Accessibility" and "Presentation" were clear, reflecting your group's skill in creating an inviting and dynamic learning environment. However, implementing feedback mechanisms that include anonymous options could further lower students' affective filters, encouraging more honest and constructive responses.
 
 + In closing, your innovative use of technology in education serves as an inspiration. Keep refining your approach based on feedback and classroom dynamics. The thoughtful adjustments you make now can lead to even more successful implementations in the future. Well done, Group 3! Keep up the excellent work and continue to explore how technology can make learning more accessible and engaging for all students.
 
